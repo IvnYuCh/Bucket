@@ -1,2 +1,2 @@
 # Bucket
-Small projects from a beginner programmer
+This is a place where I am storing the small projects I finished as a beginner programmer
